@@ -1,0 +1,10 @@
+name: simple_dart_default_theme
+description: Default themes for Simple Dart UI framework
+version: 0.0.1
+repository: https://github.com/simple-dart/default_theme
+platforms:
+  web:
+
+environment:
+  sdk: '>=2.18.0 <3.0.0'
+
