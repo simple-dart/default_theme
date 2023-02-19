@@ -1,3 +1,7 @@
+## 0.0.3
+
+- Fix `input` focused style
+
 ## 0.0.2
 
 - Add Dropdown styles
